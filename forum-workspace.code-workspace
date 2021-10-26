@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"path": "forum-backend"
+	},
+	{
+		"path": "forum-frontend"
+	}
+],
+  "settings": {}
+}
